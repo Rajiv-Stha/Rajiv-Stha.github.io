@@ -502,4 +502,6 @@ Then you can use it like other markdown languages: surround the graph code with 
 
 ## Learn More
 
+A quick brown fox jumps over the lazy dog.
+
 For more knowledge about Jekyll posts, visit the [Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/).
